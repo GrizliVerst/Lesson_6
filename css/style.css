@@ -1,0 +1,167 @@
+/* &display=swap */
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,700,900,700italic,900italic&display=swap");
+@import "null.css";
+
+
+body{
+	max-width: 900px;
+	margin: 0 auto;
+}
+img{
+	width: 900px;
+	height: 250px;
+	border-radius: 50px;
+	box-shadow: 0px 0px 20px 10px rgb(0, 128, 255), 0px 0px 0 10px rgb(2, 36, 71);
+	margin-bottom: 20px;
+}
+p{
+	margin-bottom: 10px;
+}
+.wrapper {
+	font-family: Montserrat;
+	font-style: normal;
+	font-size: 20px;
+}
+.image{
+	padding-left: 100px;
+}
+.img.top {
+	width: 295px;
+	height: 250px;
+	border-radius: 50%;
+	border: 1px solid rgb(0, 0, 0);
+	box-shadow: 0px 0px 10px 10px rgb(107, 114, 121);
+	margin-bottom: 20px;
+	margin-left: -50px;
+}
+h1{
+	font-weight: 900;
+	text-align: center;
+	font-size: 30px;
+	color: rgb(36, 36, 134);
+	border: 1px solid rgb(255, 0, 0);
+	border-radius: 30px 0 30px 0;
+	box-shadow: inset 0px 0px 10px 7px rgb(241, 3, 3);
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding-bottom: 8px;
+	padding-top: 5px;
+
+}
+h2{
+	font-size: 24px;
+	font-weight: 700;
+	text-align: center;
+	margin-bottom: 20px;
+	border: 1px solid rgb(255, 0, 0);
+	box-shadow: 0px 0px 10px 7px rgb(241, 3, 3);
+	border-radius: 5px;
+}
+.img2{
+	width: 900px;
+	height: 250px;
+	border-radius: 50px;
+	box-shadow: 0px 0px 20px 10px rgb(0, 128, 255), 0px 0px 0 10px rgb(2, 36, 71);
+	margin-bottom: 20px;
+	opacity: 0.5;
+}
+.header {
+	margin: 0 auto;
+}
+.comparison {
+	border: 2px solid rebeccapurple;
+	border-radius: 25px;
+	box-shadow: inset 0 0 10px 0;
+	padding: 5px;
+	color: rgb(3, 67, 77);
+	margin-bottom: 20px;
+	text-transform: uppercase;
+}
+.content {
+	outline: 10px dashed rgb(241, 71, 40);
+	text-decoration: underline;
+	line-height: 1.5;
+	color: brown;
+	padding: 0 10px;
+	margin-bottom: 20px;
+	border-radius: 10px;
+}
+.experienced {
+}
+.home {
+	border-radius: 10px;
+	outline: 5px dashed rgb(179, 123, 1);
+}
+.later {
+	width: 900px;
+	height: 250px;
+	border-radius: 50px;
+	box-shadow: 0px 0px 20px 10px rgb(0, 255, 128), 0px 0px 0 10px rgb(71, 41, 2);
+	margin-bottom: 20px;
+}
+.service {
+	border: 2px solid rebeccapurple;
+	border-radius: 25px;
+	box-shadow: inset 0 0 10px 0;
+	padding: 5px;
+	color: rgb(3, 67, 77);
+	margin-bottom: 20px;
+}
+.chamfer {
+	border: 2px solid rgb(153, 51, 122);
+	border-radius: 25px;
+	box-shadow: inset 0 0 10px 0;
+	padding: 5px;
+	color: rgb(77, 51, 3);
+	margin-bottom: 20px;
+	
+}
+.text {
+	border: 2px solid rgb(153, 80, 51);
+	border-radius: 25px;
+	box-shadow: inset 0 0 10px 0;
+	padding: 5px;
+	color: rgb(77, 3, 3);
+	margin-bottom: 20px;
+}
+.wry {
+	border: 10px double rgb(131, 153, 51);
+	border-radius: 25px;
+	box-shadow: inset 0 0 10px 0;
+	padding: 5px;
+	color: rgb(3, 67, 77);
+	margin-bottom: 20px;
+}
+.never {
+}
+.dog {
+}
+.expensive {
+	border: 2px solid rgb(51, 153, 85);
+	border-radius: 25px;
+	box-shadow: inset 0 0 10px 0;
+	padding: 5px;
+	color: rgb(3, 77, 67);
+	margin-bottom: 20px;
+	text-align: justify;
+}
+.vater {
+	border: 2px solid rebeccapurple;
+	border-radius: 25px;
+	box-shadow: inset 0 0 10px 0;
+	padding: 5px;
+	color: rgb(31, 3, 77);
+	margin-bottom: 20px;
+	font-style: italic;
+}
+.footer {
+}
+.link {
+	display: inline-block;
+	background-color: rgb(179, 110, 8);
+	color: rgb(185, 8, 8);
+	border-radius: 10px;
+	padding: 15px 25px;
+	box-shadow: 0 5px 8px 0 rgb(75, 26, 3);
+	margin-bottom: 10px;
+}
